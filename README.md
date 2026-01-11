@@ -1,2 +1,2 @@
-# laboratories-
+# laboratories
 Laboratories c++
